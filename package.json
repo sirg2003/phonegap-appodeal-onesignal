@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "name": "phonegap-appodeal-onesignal",
+  "cordova_name": "phonegap-appodeal-onesignal",
+  "description": "OneSignal Push Notifications with Appodeal SDK using Phonegap service.",
+  "license": "MIT",
+  "keywords": [
+    "push",
+    "notification",
+    "push notification",
+    "push notifications",
+    "apns",
+    "gcm",
+    "adm",
+    "retention",
+    "messaging",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "appodeal",
+    "cordova",
+    "phonegap",
+    "npm",
+    "ads",
+    "monetisation",
+    "onesignal"
+  ],
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0"
+    },
+    {
+      "name": "apple-xcode",
+      "version": ">=8.0.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "cordova",
+      "version": ">=6.4.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.3.0"
+    }
+  ],
+  "cordova": {
+    "id": "phonegap-appodeal-onesignal",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirg2003/phonegap-appodeal-onesignal.git"
+  },
+  "author": "sirg2003",
+  "bugs": {
+    "url": "https://github.com/sirg2003/phonegap-appodeal-onesignal/issues"
+  },
+  "homepage": "https://github.com/sirg2003/phonegap-appodeal-onesignal#readme"
+}
